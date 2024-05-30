@@ -1,0 +1,1 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Hi!+I'm+Truong+Phat+Tu+👌;I'm+a+CS+graduated+from+Luther+College.;Nice+to+know+you!)](https://git.io/typing-svg)# Truong_Phat-Kevin
