@@ -212,9 +212,9 @@
 </div>
 
 <br>
-<!-- <div align="center">
+<div align="center">
 <a href="https://github.com/sturekev/Truong_Phat-Kevin">
 <img src="https://emoji.gg/assets/emoji/8519-babykoala.png" width="64px" height="64px" alt="BabyKoala">
 </a> -->
 
-<!-- </div> -->
+</div>
