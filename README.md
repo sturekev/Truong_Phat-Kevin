@@ -114,7 +114,7 @@
 </span>
 &nbsp;
 <span>
-<img src = "" alt="HeidiSQL logo" title="HeidiSQL" height="25"/>HeidiSQL
+<img src = "" alt="" title="HeidiSQL" height="25"/>HeidiSQL
 </span>
 &nbsp;
 <span>
