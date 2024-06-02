@@ -20,18 +20,18 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby logo" title="Ruby" height="25" /></span>
-&nbsp;
+<!-- <span><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" /></span> -->
+<!-- &nbsp; -->
+<!-- <span><img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby logo" title="Ruby" height="25" /></span> -->
+<!-- &nbsp; -->
 <span>
 <img src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python logo"  title="Python" height="25"/>
 </span>
 &nbsp;
 <span>
-<img src = "https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go logo"  title="Go" height="25"/>
+<!-- <img src = "https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go logo"  title="Go" height="25"/> -->
 </span>
-&nbsp;
+<!-- &nbsp; -->
 <span>
 <img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java logo"  title="Java" height="25"/>
 </span>
@@ -40,6 +40,9 @@
 <img src = "https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua logo"  title="Lua" height="25"/>
 </span>
 &nbsp;
+<span>
+<img src = "https://img.shields.io/badge/-C++-blue?logo=cplusplus" alt="C++ logo"  title="C++" height="25"/>
+</span>
 <br>
 
 ### <u> Frontend Development Technologies and Tools: </u>
