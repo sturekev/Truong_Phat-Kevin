@@ -51,23 +51,11 @@
 
 <span><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
 &nbsp;
-<!-- <span><img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux logo" title="Redux" height="25" /></span> -->
-&nbsp;
-<!-- <span><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS logo" title="SASS" height="25" /></span> -->
-&nbsp;
-<!-- <span><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span> -->
-&nbsp;
-<!-- <span><img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI logo" title="Material UI" height="25" /></span> -->
-&nbsp;
-<!-- <span><img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest logo" title="Jest" height="25" /></span> -->
-&nbsp;
 <span><img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NextJS logo" title="NextJS" height="25" /></span>
 &nbsp;
-<!-- <span><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js logo" title="Vue.js" height="25" /></span> -->
-&nbsp;
-<!-- <span><img src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js logo" title="Three.js" height="25" /></span> -->
-&nbsp;
 <span><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
+<span><img src = "https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" alt="Ant logo" title="Ant" height="25">
+</span>
 
 ### <u> Backend Development + Database + DevOps + Deployment Technologies & Tools: </u>
 
@@ -95,7 +83,7 @@
 <span><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker logo" title="Docker Code" height="25" /></span>
 &nbsp;
 <span>
-<img src = "" alt="HeidiSQL logo" title="HeidiSQL" height="25"/>HeidiSQL
+<img src = "" alt="" title="HeidiSQL" height="25"/>HeidiSQL
 </span>
 &nbsp;
 <span>
