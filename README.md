@@ -54,7 +54,7 @@
 <span><img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NextJS logo" title="NextJS" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
-<span><img src = "https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" alt="Ant logo" title="Ant" height="25"> Antd
+<span><img src = "https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" alt="Ant logo" title="Ant" height="25">
 </span>
 
 ### <u> Backend Development + Database + DevOps + Deployment Technologies & Tools: </u>
