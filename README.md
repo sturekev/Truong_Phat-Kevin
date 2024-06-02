@@ -72,18 +72,9 @@
 ### <u> Backend Development + Database + DevOps + Deployment Technologies & Tools: </u>
 
 <br>
-
-<!-- <span><img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Rails logo" title="Ruby On Rails" height="25" /></span> -->
-&nbsp;
 <span><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js logo" title="Node.js" height="25" /></span>
 &nbsp;
-<!-- <span><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js logo" title="Express.js" height="25" /></span> -->
-&nbsp;
-<!-- <span><img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase logo" title="Firebase" height="25"/></span> -->
-&nbsp;
 <span><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask logo" title="Flask" height="25" /></span>
-&nbsp;
-<!-- <span><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel logo" title="Vercel" height="25"/></span> -->
 &nbsp;
 <span><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify logo" title="Netlify" height="25"/></span>
 &nbsp;
@@ -93,14 +84,8 @@
 <img src = "https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman logo" title = "Postman" height="25"/>
 </span>
 &nbsp;
-<!-- <span><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB logo" title="MongoDB" height="25" /></span> -->
-&nbsp;
 <span>
 <img src = "https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreQL logo"  title="PostgreSQL" height="25"/>
-</span>
-&nbsp;
-<span>
-<!-- <img src = "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL logo" title="MySQL" height="25"/> -->
 </span>
 &nbsp;
 <span>
@@ -110,11 +95,7 @@
 <span><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker logo" title="Docker Code" height="25" /></span>
 &nbsp;
 <span>
-<!-- <img src = "https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="Redis logo" title="Redis" height="25"/> -->
-</span>
-&nbsp;
-<span>
-<img src = "" alt="" title="HeidiSQL" height="25"/>HeidiSQL
+<img src = "" alt="HeidiSQL logo" title="HeidiSQL" height="25"/>HeidiSQL
 </span>
 &nbsp;
 <span>
